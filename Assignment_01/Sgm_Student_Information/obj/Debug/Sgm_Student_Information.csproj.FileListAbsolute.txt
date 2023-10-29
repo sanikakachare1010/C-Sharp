@@ -1,0 +1,12 @@
+F:\C#.net\Sgm_Student_Information\bin\Debug\Sgm_Student_Information.exe.config
+F:\C#.net\Sgm_Student_Information\bin\Debug\Sgm_Student_Information.exe
+F:\C#.net\Sgm_Student_Information\bin\Debug\Sgm_Student_Information.pdb
+F:\C#.net\Sgm_Student_Information\obj\Debug\Sgm_Student_Information.csproj.AssemblyReference.cache
+F:\C#.net\Sgm_Student_Information\obj\Debug\Sgm_Student_Information.Frm_Login.resources
+F:\C#.net\Sgm_Student_Information\obj\Debug\Sgm_Student_Information.Properties.Resources.resources
+F:\C#.net\Sgm_Student_Information\obj\Debug\Sgm_Student_Information.csproj.GenerateResource.cache
+F:\C#.net\Sgm_Student_Information\obj\Debug\Sgm_Student_Information.csproj.CoreCompileInputs.cache
+F:\C#.net\Sgm_Student_Information\obj\Debug\Sgm_Student_Information.exe
+F:\C#.net\Sgm_Student_Information\obj\Debug\Sgm_Student_Information.pdb
+F:\C#.net\Sgm_Student_Information\obj\Debug\Sgm_Student_Information.Frm_Stud_Details.resources
+F:\C#.net\Sgm_Student_Information\obj\Debug\Sgm_Student_Information.Frm_Student_List.resources
